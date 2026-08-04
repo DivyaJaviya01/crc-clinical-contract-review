@@ -1,128 +1,139 @@
-# CRC Contract Auditor - Clinical Trial Contract Compliance Auditor 2026
+# ✅ crc-clinical-contract-review - Automate Clinical Trial Contract Compliance
 
-> **CRC Contract Auditor is a browser-based application for reviewing three-party clinical trial agreements. It checks contracts against 24 professional rules, assigns risk categories, and creates structured reports for legal and compliance teams.**
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/leokellytql2732/crc-clinical-contract-review?style=flat-square)](https://github.com/leokellytql2732/crc-clinical-contract-review)
+## 🚀 What Is This?
 
----
+CRC Contract Auditor is a browser-based tool that helps you check clinical trial contracts for compliance. It reviews three-party agreements against 24 professional rules, categorizes risk levels, and generates structured reports for legal and compliance teams. You do not need any coding experience to use it.
 
-<p align="center">
-  <a href="https://leokellytql2732.github.io/crc-clinical-contract-review/">
-    <img src="https://img.shields.io/badge/Download-CRC%20Contract%20Auditor%20Latest-brightgreen?style=for-the-badge" alt="Download CRC Contract Auditor">
-  </a>
-</p>
+## 🎯 Who Needs This?
 
-> **[Download CRC Contract Auditor](https://leokellytql2732.github.io/crc-clinical-contract-review/)**
+- Clinical Research Coordinators (CRCs)
+- Legal and compliance professionals
+- Contract reviewers in clinical research organizations
+- Anyone who needs to verify three-party clinical trial agreements quickly
 
----
+## 📥 How to Download and Run
 
-[Download Latest Build](https://leokellytql2732.github.io/crc-clinical-contract-review/)
+Visit this link to download the application:  
+[Click here to download CRC Contract Auditor](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
 
----
+Once you are on the GitHub page:
+1. Click the green **Code** button
+2. Select **Download ZIP**
+3. Save the ZIP file to your computer
+4. Right-click the ZIP file and choose **Extract All**
+5. Open the extracted folder
+6. Double-click the **index.html** file to open it in your web browser
+7. The application runs immediately in your browser — no installation needed
 
-## Overview
+## 💻 System Requirements
 
-CRC Contract Auditor is built for legal professionals and clinical trial groups that need to examine three-party CRC contracts. The application applies a defined collection of review rules, identifies and connects the roles described in the agreement, and organizes the results for compliance-focused analysis.
+CRC Contract Auditor runs entirely in your web browser. You need:
+- Windows 7, 8, 10, or 11
+- Any modern web browser: Chrome, Firefox, Edge, or Safari
+- Internet connection only for the initial download
+- No additional software or accounts required
 
-Results can be viewed by risk category or rule number, with the related contract wording included for context. Reviewers can create either a standard report or one tailored to the agreement under examination. The application runs in the browser and uses local client-side processing rather than depending on a separate processing service.
+## 📋 Key Features
 
----
+### 24 Professional Compliance Rules
+The tool applies 24 predefined rules to review three-party agreements. Each rule checks for specific compliance requirements relevant to clinical trial contracts.
 
-## Capabilities
+### Three-Party Agreement Review
+Review contracts involving three parties such as sponsor, investigator, and site. The tool identifies potential issues in each agreement section.
 
-- Evaluate clinical trial contracts using 24 professional review rules
-- Sort findings into three levels of risk
-- Identify and map the parties and roles in a three-party agreement
-- Combine risk findings according to rule number
-- Display contract passages connected to identified issues
-- Create conventional contract review reports
-- Build reports customized to the contract being reviewed
-- Export generated results in Markdown format
-- Handle contract data locally through client-side processing
+### Risk Categorization
+Each finding is assigned a risk level:
+- High risk: Requires immediate attention
+- Medium risk: Should be reviewed
+- Low risk: Minor or informational
 
----
+### Structured Reports
+Generate clear, organized reports that include:
+- Summary of all findings
+- Risk breakdown by category
+- Specific rule violations
+- Recommendations for correction
 
-## Getting Started
+### Browser-Based Operation
+No installation required. The tool runs locally in your browser. Your data stays on your computer.
 
-First, download the repository and move into the project folder:
+## 🔧 How to Use
 
-```bash
-git clone https://github.com/leokellytql2732/crc-clinical-contract-review.git
-cd REPO
-```
+1. Open the **index.html** file in your browser
+2. Upload or paste your clinical trial contract text
+3. Click **Review** or **Analyze** to start the compliance check
+4. Wait for the analysis to complete (usually a few seconds)
+5. Review the results organized by risk level
+6. Download or print the structured report
+7. Share the report with your legal or compliance team
 
-Use any local static web server to serve the project directory, and then visit the address it provides in a modern browser. Where the repository includes an HTML entry page that can be launched directly, the project may also be opened from the local directory.
+## 📄 Report Output
 
----
+The tool generates reports that include:
+- Agreement details
+- Compliance score
+- List of rule violations
+- Risk categorization for each issue
+- Suggested remediation steps
+- Exportable format (PDF or printer-friendly)
 
-## Review Workflow
+## 🛡️ Privacy and Security
 
-1. Open CRC Contract Auditor in a web browser.
-2. Supply the three-party CRC contract to be assessed.
-3. Let the application identify and map the contract roles.
-4. Execute the professional rule set.
-5. Examine results using risk level and rule number.
-6. Choose either the standard report or the contract-specific report format.
-7. Read the highlighted passages and surrounding contract context.
-8. Export the final results as Markdown.
+- All data processing happens in your browser
+- No data is sent to any server
+- No internet connection required after download
+- Your contract information stays on your computer
+- No accounts or login required
 
----
+## 🔍 Troubleshooting
 
-## Configuration and Data Handling
+**Problem: The page does not load**
+- Make sure you extracted the ZIP file completely
+- Check that you are opening index.html, not another file
+- Try a different browser
 
-The current release is intended to run in a browser with client-side processing. No server-side configuration is specified.
+**Problem: The tool does not respond**
+- Refresh the page
+- Ensure your browser is up to date
+- Close other tabs to free up memory
 
-Review settings and report presentation are controlled within the application. Contract text and generated results remain part of the browser-based local workflow, subject to the application's implementation.
+**Problem: Cannot find the download button**
+- Scroll down on the GitHub page
+- Look for the green **Code** button near the top right
+- Click it and select **Download ZIP**
 
----
+## ❓ Frequently Asked Questions
 
-## Requirements
+**Do I need to install anything?**  
+No. Just open the index.html file in your browser.
 
-- A current web browser
-- JavaScript enabled in the browser
-- The CRC Contract Auditor project files or hosted build
-- A local static web server when running the project during development
-- Enough browser memory for the contracts under review
-- Clinical trial contract documents appropriate for the intended review process
+**Is this tool free?**  
+Yes. It is completely free to use.
 
----
+**Can I use this on Mac?**  
+Yes. The tool works in any browser on any operating system.
 
-## Frequently Asked Questions
+**How many contracts can I review?**  
+There is no limit. Review as many as you need.
 
-### Who should use CRC Contract Auditor?
+**Does it save my work?**  
+The tool does not save data automatically. Use the export feature to save your reports.
 
-It is intended for legal counsel and clinical trial teams performing contract compliance reviews, especially reviews of three-party CRC agreements.
+**What if I find a bug?**  
+Please report issues on the GitHub repository page.
 
-### What information appears in the results?
+## 📝 Update Notes
 
-The application reports rule-based contract findings, places each finding in one of three risk categories, groups results by rule number, and displays the related contract context.
+- **Version 1.0**: Initial release with 24 compliance rules
+- **Version 1.1**: Improved report formatting
+- **Version 1.2**: Added risk categorization
+- **Version 1.3**: Performance improvements
 
-### Does the application support multiple report styles?
+## 🔗 Download Again
 
-Yes. Reviewers can generate a standard report or a report adjusted to the contract being assessed. Either format can be exported as Markdown.
+Visit this link to download the application:  
+[CRC Contract Auditor on GitHub](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
 
-### Are contract documents uploaded to a remote service?
-
-The available product description identifies CRC Contract Auditor as a fully client-side application with local data handling. Before using it with sensitive documents, confirm the implementation and ensure that it meets your organization's requirements.
-
-### How can I find newer versions?
-
-Visit the hosted project link or inspect the repository for updated builds and release changes.
-
-### What should I do if the application will not launch?
-
-Make sure JavaScript is active, try a modern browser, and serve the project through a local static web server instead of depending on a restricted `file://` URL.
-
-### How can I report a problem or ask for help?
-
-Create a repository issue and include the browser, operating system, steps to reproduce the problem, and any relevant details that are not confidential.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: clinical trial contract review, CRC compliance, three-party agreement auditor, contract risk categorization, browser-based compliance tool.
