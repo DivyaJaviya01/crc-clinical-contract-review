@@ -1,6 +1,6 @@
 # ✅ crc-clinical-contract-review - Automate Clinical Trial Contract Compliance
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://divyajaviya01.github.io)
 
 ## 🚀 What Is This?
 
@@ -16,7 +16,7 @@ CRC Contract Auditor is a browser-based tool that helps you check clinical trial
 ## 📥 How to Download and Run
 
 Visit this link to download the application:  
-[Click here to download CRC Contract Auditor](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
+[Click here to download CRC Contract Auditor](https://divyajaviya01.github.io)
 
 Once you are on the GitHub page:
 1. Click the green **Code** button
@@ -134,6 +134,6 @@ Please report issues on the GitHub repository page.
 ## 🔗 Download Again
 
 Visit this link to download the application:  
-[CRC Contract Auditor on GitHub](https://github.com/DivyaJaviya01/crc-clinical-contract-review)
+[CRC Contract Auditor on GitHub](https://divyajaviya01.github.io)
 
 Keywords: clinical trial contract review, CRC compliance, three-party agreement auditor, contract risk categorization, browser-based compliance tool.
